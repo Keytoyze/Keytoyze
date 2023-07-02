@@ -1,8 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Keytoyze&show_icons=true&theme=tokyonight" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-
-- 🎓  Ph.D student@ZJU.
-- 🏠  Homepage at [resume.keytoix.vip](https://resume.keytoix.vip).
-
+<img src="https://github-readme-stats.vercel.app/api?username=Keytoyze&show_icons=true&theme=tokyonight" alt="logo" height="160" />
 
 <!--
 **Keytoyze/Keytoyze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
